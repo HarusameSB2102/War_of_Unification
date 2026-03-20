@@ -1,0 +1,9 @@
+name: War_of_Unification
+version: 1.0
+main: com.harusame2102.warofunification.WarOfUnification
+api-version: "1.21.11"
+description: チーム戦争プラグイン
+
+commands:
+  war:
+    description: 戦争プラグインのメインコマンド
